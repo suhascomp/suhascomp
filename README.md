@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @suhascomp
+- 👋 Hi, I’m Suhas
 - 👀 I’m interested in learning new Technologies.
 - 🌱 I’m currently learning Microservices
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me suhascomp@gmail.com
+- 📫 Reach me 📧 suhascomp@gmail.com
 
 <!---
 suhascomp/suhascomp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
